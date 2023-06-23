@@ -1,0 +1,12 @@
+* Instalar modulos: npm start
+
+1 - Descargar xamp y ejecutar.
+2 - Ejecutar servidor apache y mysql.
+3 - Ir al panel de administracion mysql y crear una base y cuenta siguiendo las configuraciones: 
+
+  host: 'localhost',
+  user: 'julian',
+  password: '27462582',
+  database: 'agenda_contactos'
+
+  con los parametros: id_contacto, numero_contacto, nombre_contacto
